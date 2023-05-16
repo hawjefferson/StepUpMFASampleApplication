@@ -1,0 +1,27 @@
+.profile-card {
+  border-radius: 4px;
+  border: 1px solid #abd5d6;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #095661;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+div.shield {
+  height: 48px;
+  width: 48px;
+}
+
+p {
+  margin-left: 16px;
+}
+
+span {
+  margin-left: 4px;
+}
+
+
+
